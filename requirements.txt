@@ -1,5 +1,4 @@
 beautifulsoup4
-flask
-flask-restful
+fastapi
 requests
 uvicorn
